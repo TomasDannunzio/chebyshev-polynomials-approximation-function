@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import scipy as scp
 
 #NOTA: Para que el codigo funcione se debe guardar el archivo dado por la catedra en esta direccion o cambiar la misma.
-f = open("C:\Users\tomid\PycharmProjects\TP3Chebyshev", "r")
+f = open("C://Users/tomid/PycharmProjects/tpchebyshev/Potencial de acción medido.txt","r")
 
 texto = f.read()
 
